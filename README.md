@@ -23,6 +23,8 @@ Esports, with its 4.3 billion dollar global economy, has become a significant in
 
 
 
-## HERE IS THE DEMO OF HOW THE AI DETECTING ALL THE POSITIONS AND PREDICTING THE PROBABLE FIGHT AND THE MAPPED KEYS ARE PRESSED: https://youtu.be/gsvYyvN-6Bw (Project is currently in review for patent hence the code is not shared) 
+## HERE IS THE DEMO OF HOW THE AI DETECTING ALL THE POSITIONS AND PREDICTING THE PROBABLE FIGHT AND THE MAPPED KEYS ARE PRESSED: https://youtu.be/gsvYyvN-6Bw 
+
+**Project is currently in review for patent hence the code is not shared** 
 
 #This project 1st Runner Up (Team OnlyTech) in Innverve 8 Biggest Student Driven Hackathon by Army Insititue of Technology Pune: https://x.com/IaSouthern/status/1756490525031739487/photo/4 
