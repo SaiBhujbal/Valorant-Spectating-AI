@@ -31,4 +31,4 @@ Esports, with its 4.3 billion dollar global economy, has become a significant in
 
 
 
-# This project 1st Runner Up (Team OnlyTech) in Innverve 8 Biggest Student Driven Hackathon by Army Insititue of Technology Pune: https://x.com/IaSouthern/status/1756490525031739487/photo/4 
+# This project is 1st Runner Up (Team OnlyTech) in Innverve 8, Biggest Student Driven Hackathon by **Army Insititue of Technology Pune**: https://x.com/IaSouthern/status/1756490525031739487/photo/4 
